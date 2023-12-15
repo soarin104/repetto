@@ -234,7 +234,7 @@ html, body {
 }
 
 .tit{
-	font-size: 5vw;
+	font-size: 7vw;
 }
 
 .tit .s{
@@ -378,7 +378,8 @@ html, body {
 
 /* section3 */
 .section3 .imgBox{
-	margin-top: 12vw;
+	margin: 12vw auto 0;
+	width: 80%;
 }
 
 
